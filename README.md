@@ -110,7 +110,7 @@ Feedback is always welcome! If you have suggestions or spot any issues, please f
 ## 🔗 Links
 
 - [My GitHub Profile](https://github.com/sadokdiba)
-- [Commit Best Practices](./Commit-Best-Practices.md) *(Professional standards for writing commit messages)*
+- [Commit Best Practices](./commit-best-practices.md) *(Professional standards for writing commit messages)*
 - [Course Details](#) *(will add links in due course)*
 - [Live Portfolio Projects](#) *(Will add links when ready)*
 
