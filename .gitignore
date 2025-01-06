@@ -100,3 +100,6 @@ tslint.cache/
 
 # Lint-staged files
 *.snap
+
+# manuals
+/manuals/
